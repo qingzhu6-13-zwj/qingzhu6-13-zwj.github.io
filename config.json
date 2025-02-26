@@ -1,6 +1,13 @@
 {
     "title":"Blog Title",
     "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
+    "avatarUrl":"https://static.codemao.cn/pickduck/S109z5n9Jl.jpg?hash=FiecJThFWaqTRiIDtXdLig7tow3g",
+    "GMEEK_VERSION":"last"
+    "email":"2474156326@qq.com",
+    "startSite":"02/26/2025",
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
+    "iconList":{"about":"M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10H4a2 2 0 0 1-2-2v-8C2 6.477 6.477 2 12 2m0 2a8 8 0 0 0-8 8v8h8a8 8 0 1 0 0-16m0 10a1 1 0 0 1 .117 1.993L12 16H9a1 1 0 0 1-.117-1.993L9 14zm3-4a1 1 0 1 1 0 2H9a1 1 0 1 1 0-2z"},
+    "singlePage":["about"],
     "GMEEK_VERSION":"last"
 }
